@@ -107,6 +107,7 @@
 - https://twitter.com/fp_union
 - https://twitter.com/latguild
 - https://twitter.com/GimletUnion
+- https://twitter.com/STdigitalunion/status/1265296968886046721
 
 ## Journalists
 
