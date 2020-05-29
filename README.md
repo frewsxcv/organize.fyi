@@ -196,3 +196,4 @@ https://twitter.com/GuildatBIG
 https://twitter.com/NelpStaff
 https://twitter.com/reprorightsuni
 https://actionnetwork.org/petitions/tell-the-young-turks-to-recognize-their-production-crews-union
+https://mobile.twitter.com/BxDUnion/status/1266375333680345108
