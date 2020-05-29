@@ -112,6 +112,7 @@ An [awesome list](https://github.com/topics/awesome-list) of recent organizing e
 - https://twitter.com/latguild
 - https://twitter.com/GimletUnion
 - https://labornotes.org/blogs/2020/05/they-won-new-union-while-working-home
+- https://twitter.com/STdigitalunion/status/1265296968886046721
 
 ## Journalists
 
@@ -194,3 +195,4 @@ https://twitter.com/wirecutterunion
 https://twitter.com/GuildatBIG
 https://twitter.com/NelpStaff
 https://twitter.com/reprorightsuni
+https://actionnetwork.org/petitions/tell-the-young-turks-to-recognize-their-production-crews-union
