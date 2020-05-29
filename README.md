@@ -1,13 +1,16 @@
 ## awesome-organizing
 
-## Retail / warehouse?
+An [awesome list](https://github.com/topics/awesome-list) of recent organizing efforts.
 
-- https://twitter.com/TGTWorkersUnite
+## Retail / warehouse
+
+- [Target Workers United](https://twitter.com/TGTWorkersUnite)
 - https://twitter.com/NYCAmazonians
 - https://twitter.com/HPB_layoffs
 - https://twitter.com/WWorkersStandUp
-- https://twitter.com/EverlaneU
-- https://twitter.com/Dch1United
+- [DCH1 Amazonians United](https://twitter.com/Dch1United) - Chicago area Amazon workers
+- [IE Amazonians Unite](https://twitter.com/amazoniansunite) - Inland Empire Amazon workers
+- [Everlane Union](https://twitter.com/EverlaneU)
 
 ## Gig
 
@@ -59,10 +62,11 @@
 
 ## Food/drink
 
-- https://twitter.com/StarbucksSolid1
+- [Starbucks Solidarity Movement](https://twitter.com/StarbucksSolid1)
 - https://twitter.com/fishtownlocal1
 - https://twitter.com/BVWU_IWW
 - https://twitter.com/TartineUnion
+- [Burgerville Workers Union](https://twitter.com/BVWU_IWW)
 
 ## Unions
 
@@ -107,6 +111,7 @@
 - https://twitter.com/fp_union
 - https://twitter.com/latguild
 - https://twitter.com/GimletUnion
+- https://labornotes.org/blogs/2020/05/they-won-new-union-while-working-home
 
 ## Journalists
 
@@ -163,6 +168,7 @@
 
 
 
+- [San Bernardino Airport Communities](https://twitter.com/SBACommunities)
 https://twitter.com/IHEGuild
 https://twitter.com/afa_cwa
 https://twitter.com/NYTWA
