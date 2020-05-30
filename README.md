@@ -25,7 +25,7 @@ An [awesome list](https://github.com/topics/awesome-list) of recent organizing e
 - [Athena](https://twitter.com/athenaforall) - A coalition to end Amazon’s injustices—spying, gentrification, dirty energy, monopoly & worker abuse
 - [Amazonians: We Won't Build It](https://twitter.com/WeWontBuildIt) - Amazon workers calling for accountability and transparency in the tech they build
 - [Kickstarter United](https://twitter.com/ksr_united) - Kickstarter workers unionized with OPEIU Local 153
-- https://twitter.com/MsWorkers4
+- [Microsoft Workers 4 Good](https://twitter.com/MsWorkers4) - Amazon employees who want climate leadership
 - https://twitter.com/AMZNforClimate
 - Glitch union
 - https://twitter.com/ClimateGooglers
