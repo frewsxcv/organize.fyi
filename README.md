@@ -2,29 +2,29 @@
 
 An [awesome list](https://github.com/topics/awesome-list) of recent organizing efforts.
 
-## Retail / warehouse
+## Retail / warehouse / logistics
 
-- [Target Workers United](https://twitter.com/TGTWorkersUnite)
-- https://twitter.com/NYCAmazonians
-- https://twitter.com/HPB_layoffs
-- https://twitter.com/WWorkersStandUp
+- [Amazonians United New York City](https://twitter.com/NYCAmazonians)
 - [DCH1 Amazonians United](https://twitter.com/Dch1United) - Chicago area Amazon workers
-- [IE Amazonians Unite](https://twitter.com/amazoniansunite) - Inland Empire Amazon workers
 - [Everlane Union](https://twitter.com/EverlaneU)
+- [Half Price Books Layoffs](https://twitter.com/HPB_layoffs)
+- [IE Amazonians Unite](https://twitter.com/amazoniansunite) - Inland Empire Amazon workers
+- [Target Workers United](https://twitter.com/TGTWorkersUnite)
+- [Warehouse Workers Stand Up](https://twitter.com/WWorkersStandUp)
 
 ## Gig
 
-- https://twitter.com/GigWorkersRise
-- https://twitter.com/mobile_alliance
-- https://twitter.com/_drivers_united
-- https://twitter.com/PhlDriversUnion
+- [Gig Workers Rising](https://twitter.com/GigWorkersRise) - A community of app and platform workers organizing for better wages, working conditions and jobs
+- [Mobile Workers Alliance](https://twitter.com/mobile_alliance) - Mobile professionals behind the success of apps like Uber, Lyft, Postmates, and more
+- [Philadelphia Drivers Union](https://twitter.com/PhlDriversUnion)
+- [Rideshare Drivers United](https://twitter.com/_drivers_united) - An independent, worker-led organization of rideshare drivers uniting for fair pay & a voice on the job
 
 ## Tech
 
-- https://twitter.com/githubbers/
-- https://twitter.com/athenaforall
-- https://twitter.com/WeWontBuildIt
-- https://twitter.com/ksr_united
+- [githubbers](https://twitter.com/githubbers/) - GitHub workers demanding that GitHub management cancel the ICE contract
+- [Athena](https://twitter.com/athenaforall) - A coalition to end Amazon’s injustices—spying, gentrification, dirty energy, monopoly & worker abuse
+- [Amazonians: We Won't Build It](https://twitter.com/WeWontBuildIt) - Amazon workers calling for accountability and transparency in the tech they build
+- [Kickstarter United](https://twitter.com/ksr_united) - Kickstarter workers unionized with OPEIU Local 153
 - https://twitter.com/MsWorkers4
 - https://twitter.com/AMZNforClimate
 - Glitch union
@@ -50,6 +50,7 @@ An [awesome list](https://github.com/topics/awesome-list) of recent organizing e
 ## Music
 
 - https://twitter.com/NoMusicForICE
+- https://twitter.com/p4kunion
 
 ## Art
 
@@ -87,7 +88,6 @@ An [awesome list](https://github.com/topics/awesome-list) of recent organizing e
 - https://twitter.com/gmgunion
 - https://twitter.com/HearstUnion
 - https://twitter.com/ars_union
-- https://twitter.com/p4kunion
 - https://twitter.com/timemagunion
 - https://twitter.com/peoplemagunion
 - https://twitter.com/NYTimesGuild
