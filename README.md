@@ -21,31 +21,30 @@ An [awesome list](https://github.com/topics/awesome-list) of recent organizing e
 
 ## Tech
 
-- [githubbers](https://twitter.com/githubbers/) - GitHub workers demanding that GitHub management cancel the ICE contract
-- [Athena](https://twitter.com/athenaforall) - A coalition to end Amazon’s injustices—spying, gentrification, dirty energy, monopoly & worker abuse
+- [#TechSolidarity](https://twitter.com/techspeaksout)
+- [Amazon Employees For Climate Justice](https://twitter.com/AMZNforClimate) - Amazon employees who want climate leadership
 - [Amazonians: We Won't Build It](https://twitter.com/WeWontBuildIt) - Amazon workers calling for accountability and transparency in the tech they build
+- [Athena](https://twitter.com/athenaforall) - A coalition to end Amazon’s injustices—spying, gentrification, dirty energy, monopoly & worker abuse
+- [DSA National Tech Committee](https://twitter.com/DSATechCmte)
+- [Facebook Employees for Climate Action](https://twitter.com/FBClimateAction)
+- [githubbers](https://twitter.com/githubbers/) - GitHub workers demanding that GitHub management cancel the ICE contract
+- [Glitch union](https://techcrunch.com/2020/03/13/online-code-collaboration-tool-glitch-votes-to-unionize/) - Glitch workers unionized with CWA Local 1101
+- [Google Walkout For Real Change](https://twitter.com/GoogleWalkout)
+- [Googlers for Climate Action](Ahttps://twitter.com/ClimateGooglers)
+- [Googlers for Human Rights](https://twitter.com/EthicalGooglers)
 - [Kickstarter United](https://twitter.com/ksr_united) - Kickstarter workers unionized with OPEIU Local 153
 - [Microsoft Workers 4 Good](https://twitter.com/MsWorkers4) - Amazon employees who want climate leadership
-- https://twitter.com/AMZNforClimate
-- Glitch union
-- https://twitter.com/ClimateGooglers
-- https://twitter.com/FBClimateAction
-- https://twitter.com/climateActTech
-- https://twitter.com/EthicalGooglers
-- https://twitter.com/SquareWorkers
-- https://twitter.com/GoogleWalkout
-- https://twitter.com/techspeaksout
-- https://twitter.com/HCLtechUnion
-- https://twitter.com/techworkersco?lang=en
-- https://twitter.com/dctechworkers
-- https://twitter.com/twc_den
-- https://twitter.com/TechWorkersBER
-- https://twitter.com/twc_bangalore
-- https://twitter.com/techworkersldn
-- https://twitter.com/techworkerscony
-- https://twitter.com/twcatx
-- https://twitter.com/NYCDSATechWG
-- https://twitter.com/DSATechCmte
+- [NYC-DSA Tech Action](https://twitter.com/NYCDSATechWG)
+- [Square Workers for Climate Action](https://twitter.com/SquareWorkers)
+- [Tech Workers Coalition: Austin](https://twitter.com/twcatx)
+- [Tech Workers Coalition: Bangalore](https://twitter.com/twc_bangalore)
+- [Tech Workers Coalition: Berlin](https://twitter.com/TechWorkersBER)
+- [Tech Workers Coalition: DC](https://twitter.com/dctechworkers)
+- [Tech Workers Coalition: Denver](https://twitter.com/twc_den)
+- [Tech Workers Coalition: London](https://twitter.com/techworkersldn)
+- [Tech Workers Coalition: NYC](https://twitter.com/techworkerscony)
+- [Tech Workers Coalition](https://twitter.com/techworkersco)
+- [United HCL Workers of Pittsburgh](https://twitter.com/HCLtechUnion) - Tech professionals and Google contractors unionzied with the USW
 
 ## Music
 
