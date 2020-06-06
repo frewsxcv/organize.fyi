@@ -175,7 +175,6 @@ https://twitter.com/NYTWA
 https://twitter.com/hwanola
 https://twitter.com/ChicagoRidesha1
 https://twitter.com/tcgunion
-https://twitter.com/SBACommunities
 https://twitter.com/workingwa
 https://twitter.com/ShopperShipt
 https://twitter.com/SVRising
@@ -189,6 +188,9 @@ https://twitter.com/PublicBankNYC
 https://twitter.com/ForUsNotAmazon
 https://twitter.com/SVRising
 https://twitter.com/law360union
+https://twitter.com/book_workers
+https://twitter.com/uaw2865?lang=en
+https://twitter.com/payusmoreucsc?lang=en
 
 https://twitter.com/wirecutterunion
 https://twitter.com/GuildatBIG
@@ -198,3 +200,4 @@ https://actionnetwork.org/petitions/tell-the-young-turks-to-recognize-their-prod
 https://mobile.twitter.com/BxDUnion/status/1266375333680345108
 https://www.cityandstateny.com/articles/politics/new-york-city/city-hall-staffers-ask-union-recognition.html
 https://www.politico.com/newsletters/massachusetts-playbook/2020/05/27/kennedy-campaign-staff-joins-union-new-documents-in-soldiers-home-saga-massgop-in-dire-straits-489339
+https://www.publishersweekly.com/pw/by-topic/industry-news/bookselling/article/81970-employees-at-mcnally-jackson-vote-to-unionize.html
