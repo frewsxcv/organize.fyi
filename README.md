@@ -201,3 +201,5 @@ https://mobile.twitter.com/BxDUnion/status/1266375333680345108
 https://www.cityandstateny.com/articles/politics/new-york-city/city-hall-staffers-ask-union-recognition.html
 https://www.politico.com/newsletters/massachusetts-playbook/2020/05/27/kennedy-campaign-staff-joins-union-new-documents-in-soldiers-home-saga-massgop-in-dire-straits-489339
 https://www.publishersweekly.com/pw/by-topic/industry-news/bookselling/article/81970-employees-at-mcnally-jackson-vote-to-unionize.html
+https://twitter.com/popupguild/status/1269013249070112775
+https://www.aft.org/news/ivy-league-grad-workers-win-historic-first-union-contract
