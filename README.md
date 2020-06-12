@@ -205,3 +205,8 @@ https://twitter.com/popupguild/status/1269013249070112775
 https://www.aft.org/news/ivy-league-grad-workers-win-historic-first-union-contract
 https://www.kqed.org/arts/13881257/sfmoma-faces-censorship-racism-accusations-over-george-floyd-response
 https://twitter.com/RingerUnion
+https://twitter.com/NorCalFF15
+
+https://twitter.com/FastfoodRights
+https://twitter.com/FightFor15FL
+https://twitter.com/fightfor15
