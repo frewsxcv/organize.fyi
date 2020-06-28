@@ -212,3 +212,6 @@ https://twitter.com/FightFor15FL
 https://twitter.com/fightfor15
 https://github.com/collective-action/tech
 https://twitter.com/PBNewsGuild/status/1275401564769988608
+
+https://mobile.twitter.com/WeMakeKPBS
+https://www.wsws.org/en/articles/2020/05/27/tech-m27.html
