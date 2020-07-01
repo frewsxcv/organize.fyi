@@ -215,3 +215,5 @@ https://twitter.com/PBNewsGuild/status/1275401564769988608
 
 https://mobile.twitter.com/WeMakeKPBS
 https://www.wsws.org/en/articles/2020/05/27/tech-m27.html
+
+https://twitter.com/CAHUnion/status/1278047059464138759?s=20
