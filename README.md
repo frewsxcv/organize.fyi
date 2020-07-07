@@ -48,8 +48,9 @@ An [awesome list](https://github.com/topics/awesome-list) of recent organizing e
 
 ## Music
 
-- https://twitter.com/NoMusicForICE
-- https://twitter.com/p4kunion
+- [No Music For ICE](https://twitter.com/NoMusicForICE)
+- [Pitchfork Union](https://twitter.com/p4kunion)
+- [Union of Musicians and Allied Workers](https://twitter.com/UMAW_)
 
 ## Art
 
@@ -58,7 +59,7 @@ An [awesome list](https://github.com/topics/awesome-list) of recent organizing e
 ## Grocery
 
 - https://twitter.com/TraderJoesUnion
-- https://twitter.com/WholeWorkerWFM
+- [Whole Worker](https://twitter.com/WholeWorkerWFM)
 
 ## Food/drink
 
@@ -78,40 +79,45 @@ An [awesome list](https://github.com/topics/awesome-list) of recent organizing e
 
 ## Media
 
-- https://twitter.com/TYTUnion
-- https://twitter.com/bfnewsunion
-- https://twitter.com/viceunion
-- https://twitter.com/newyorkerunion
-- https://twitter.com/TYTUnion
-- https://twitter.com/wiredunion
-- https://twitter.com/gmgunion
-- https://twitter.com/HearstUnion
-- https://twitter.com/ars_union
-- https://twitter.com/timemagunion
-- https://twitter.com/peoplemagunion
-- https://twitter.com/NYTimesGuild
-- https://twitter.com/PostGuild
-- https://twitter.com/Fortune_Union
-- https://twitter.com/nbcnewsguild
-- https://twitter.com/VMGGuild
-- https://twitter.com/si_union
-- https://twitter.com/HuffPostUnion
-- https://twitter.com/SlateUnion
-- https://twitter.com/OnionIncUnion
-- https://twitter.com/thrillistunion
-- https://twitter.com/vox_union
-- https://twitter.com/FastCoUnion/
-- https://twitter.com/tnrunion
-- https://twitter.com/InterceptUnion
-- https://twitter.com/dailybeastunion
-- https://twitter.com/TP_Union
-- https://twitter.com/NYMagUnion
-- https://twitter.com/MoJoUnion
-- https://twitter.com/fp_union
-- https://twitter.com/latguild
-- https://twitter.com/GimletUnion
+- [The Young Turks Union](https://twitter.com/TYTUnion)
+- [BuzzFeed News Union](https://twitter.com/bfnewsunion)
+- [Vice Union](https://twitter.com/viceunion)
+- [The New Yorker Union](https://twitter.com/newyorkerunion)
+- [WIRED Union](https://twitter.com/wiredunion)
+- [GMG Union](https://twitter.com/gmgunion)
+- [Hearst Magazines Media Union](https://twitter.com/HearstUnion)
+- [Ars Union](https://twitter.com/ars_union)
+- [TIME Union](https://twitter.com/timemagunion)
+- [People Magazine Union](https://twitter.com/peoplemagunion)
+- [The New York Times Guild](https://twitter.com/NYTimesGuild)
+- [The Washington Post Guild](https://twitter.com/PostGuild)
+- [Fortune Union](https://twitter.com/Fortune_Union)
+- [NBC Digital NewsGuild](https://twitter.com/nbcnewsguild)
+- [](https://twitter.com/VMGGuild)
+- [](https://twitter.com/si_union)
+- [Huffington Post Union](https://twitter.com/HuffPostUnion)
+- [](https://twitter.com/SlateUnion)
+- [](https://twitter.com/OnionIncUnion)
+- [](https://twitter.com/thrillistunion)
+- [Vox Media Union](https://twitter.com/vox_union)
+- [Fast Company Union](https://twitter.com/FastCoUnion/)
+- [The New Republic Union](https://twitter.com/tnrunion)
+- [](https://twitter.com/InterceptUnion)
+- [](https://twitter.com/dailybeastunion)
+- [](https://twitter.com/TP_Union)
+- [](https://twitter.com/NYMagUnion)
+- [Mother Jones Union](https://twitter.com/MoJoUnion)
+- [](https://twitter.com/fp_union)
+- [](https://twitter.com/latguild)
+- [](https://twitter.com/GimletUnion)
 - https://labornotes.org/blogs/2020/05/they-won-new-union-while-working-home
 - https://twitter.com/STdigitalunion/status/1265296968886046721
+- [Tribune Content Guild](https://twitter.com/TBContentGuild)
+
+### Regional?
+
+- [The Montana News Guild](https://twitter.com/mtnewsguild)
+- [Boston Newspaper Guild](https://twitter.com/BostonNewsGuild)
 
 ## Journalists
 
@@ -217,3 +223,6 @@ https://mobile.twitter.com/WeMakeKPBS
 https://www.wsws.org/en/articles/2020/05/27/tech-m27.html
 
 https://twitter.com/CAHUnion/status/1278047059464138759?s=20
+
+https://twitter.com/NoTech4Tyrants
+https://twitter.com/Publici_Union
