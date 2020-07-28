@@ -171,60 +171,54 @@ An [awesome list](https://github.com/topics/awesome-list) of recent organizing e
 
 - https://twitter.com/PPU512
 
-
-
+## Unsorted
 
 - [San Bernardino Airport Communities](https://twitter.com/SBACommunities)
-https://twitter.com/IHEGuild
-https://twitter.com/afa_cwa
-https://twitter.com/NYTWA
-https://twitter.com/hwanola
-https://twitter.com/ChicagoRidesha1
-https://twitter.com/tcgunion
-https://twitter.com/workingwa
-https://twitter.com/ShopperShipt
-https://twitter.com/SVRising
-https://twitter.com/SWA_solidarity
-https://twitter.com/wedriveprogress
-https://twitter.com/codaunite
-https://twitter.com/ICGuild
-https://twitter.com/IATSE
-https://twitter.com/newsguild
-https://twitter.com/PublicBankNYC
-https://twitter.com/ForUsNotAmazon
-https://twitter.com/SVRising
-https://twitter.com/law360union
-https://twitter.com/book_workers
-https://twitter.com/uaw2865?lang=en
-https://twitter.com/payusmoreucsc?lang=en
-
-https://twitter.com/wirecutterunion
-https://twitter.com/GuildatBIG
-https://twitter.com/NelpStaff
-https://twitter.com/reprorightsuni
-https://actionnetwork.org/petitions/tell-the-young-turks-to-recognize-their-production-crews-union
-https://mobile.twitter.com/BxDUnion/status/1266375333680345108
-https://www.cityandstateny.com/articles/politics/new-york-city/city-hall-staffers-ask-union-recognition.html
-https://www.politico.com/newsletters/massachusetts-playbook/2020/05/27/kennedy-campaign-staff-joins-union-new-documents-in-soldiers-home-saga-massgop-in-dire-straits-489339
-https://www.publishersweekly.com/pw/by-topic/industry-news/bookselling/article/81970-employees-at-mcnally-jackson-vote-to-unionize.html
-https://twitter.com/popupguild/status/1269013249070112775
-https://www.aft.org/news/ivy-league-grad-workers-win-historic-first-union-contract
-https://www.kqed.org/arts/13881257/sfmoma-faces-censorship-racism-accusations-over-george-floyd-response
-https://twitter.com/RingerUnion
-https://twitter.com/NorCalFF15
-
-https://twitter.com/FastfoodRights
-https://twitter.com/FightFor15FL
-https://twitter.com/fightfor15
-https://github.com/collective-action/tech
-https://twitter.com/PBNewsGuild/status/1275401564769988608
-
-https://mobile.twitter.com/WeMakeKPBS
-https://www.wsws.org/en/articles/2020/05/27/tech-m27.html
-
-https://twitter.com/CAHUnion/status/1278047059464138759?s=20
-
-https://twitter.com/NoTech4Tyrants
-https://twitter.com/Publici_Union
-https://twitter.com/JCurrents_Union/status/1283436388730441732
-https://twitter.com/VOW_Together/status/1283554541829595136
+- https://twitter.com/IHEGuild
+- https://twitter.com/afa_cwa
+- https://twitter.com/NYTWA
+- https://twitter.com/hwanola
+- https://twitter.com/ChicagoRidesha1
+- https://twitter.com/tcgunion
+- https://twitter.com/workingwa
+- https://twitter.com/ShopperShipt
+- https://twitter.com/SVRising
+- https://twitter.com/SWA_solidarity
+- https://twitter.com/wedriveprogress
+- https://twitter.com/codaunite
+- https://twitter.com/ICGuild
+- https://twitter.com/IATSE
+- https://twitter.com/newsguild
+- https://twitter.com/PublicBankNYC
+- https://twitter.com/ForUsNotAmazon
+- https://twitter.com/SVRising
+- https://twitter.com/law360union
+- https://twitter.com/book_workers
+- https://twitter.com/uaw2865?lang=en
+- https://twitter.com/payusmoreucsc?lang=en
+- https://twitter.com/wirecutterunion
+- https://twitter.com/GuildatBIG
+- https://twitter.com/NelpStaff
+- https://twitter.com/reprorightsuni
+- https://actionnetwork.org/petitions/tell-the-young-turks-to-recognize-their-production-crews-union
+- https://mobile.twitter.com/BxDUnion/status/1266375333680345108
+- https://www.cityandstateny.com/articles/politics/new-york-city/city-hall-staffers-ask-union-recognition.html
+- https://www.politico.com/newsletters/massachusetts-playbook/2020/05/27/kennedy-campaign-staff-joins-union-new-documents-in-soldiers-home-saga-massgop-in-dire-straits-489339
+- https://www.publishersweekly.com/pw/by-topic/industry-news/bookselling/article/81970-employees-at-mcnally-jackson-vote-to-unionize.html
+- https://twitter.com/popupguild/status/1269013249070112775
+- https://www.aft.org/news/ivy-league-grad-workers-win-historic-first-union-contract
+- https://www.kqed.org/arts/13881257/sfmoma-faces-censorship-racism-accusations-over-george-floyd-response
+- https://twitter.com/RingerUnion
+- https://twitter.com/NorCalFF15
+- https://twitter.com/FastfoodRights
+- https://twitter.com/FightFor15FL
+- https://twitter.com/fightfor15
+- https://github.com/collective-action/tech
+- https://twitter.com/PBNewsGuild/status/1275401564769988608
+- https://mobile.twitter.com/WeMakeKPBS
+- https://www.wsws.org/en/articles/2020/05/27/tech-m27.html
+- https://twitter.com/CAHUnion/status/1278047059464138759?s=20
+- https://twitter.com/NoTech4Tyrants
+- https://twitter.com/Publici_Union
+- https://twitter.com/JCurrents_Union/status/1283436388730441732
+- https://twitter.com/VOW_Together/status/1283554541829595136
