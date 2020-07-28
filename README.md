@@ -1,6 +1,6 @@
-## awesome-organizing
+## Organizing
 
-An [awesome list](https://github.com/topics/awesome-list) of recent organizing efforts.
+A list of recent labor organizing efforts.
 
 ## Retail / warehouse / logistics
 
