@@ -222,3 +222,4 @@ A list of recent labor organizing efforts.
 - https://twitter.com/Publici_Union
 - https://twitter.com/JCurrents_Union/status/1283436388730441732
 - https://twitter.com/VOW_Together/status/1283554541829595136
+- https://twitter.com/ActBlueUnion/status/1293584775882702849
