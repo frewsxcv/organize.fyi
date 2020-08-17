@@ -136,6 +136,7 @@ A list of recent labor organizing efforts.
 - https://twitter.com/GroundworkU
 - https://twitter.com/jstreetunion
 - https://twitter.com/SplcUnion
+- https://www.vice.com/en_us/article/5dzqxn/greenpeace-workers-launch-union-drive
 
 ## Games
 
