@@ -113,6 +113,7 @@ A list of recent labor organizing efforts.
 - [Vox Media Union](https://twitter.com/vox_union)
 - [WIRED Union](https://twitter.com/wiredunion)
 - https://labornotes.org/blogs/2020/05/they-won-new-union-while-working-home
+- https://twitter.com/parcastunion/
 
 ### Regional?
 
