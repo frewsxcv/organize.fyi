@@ -14,4 +14,4 @@
 
 ---
 
-- [Contributors](./contributors.md)
+[Contributors](./contributors.md)
