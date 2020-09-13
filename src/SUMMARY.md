@@ -18,6 +18,8 @@
 
 ---
 
+[Contributing](./contributing.md)
+
 [Contributors](./contributors.md)
 
 [Copyright](./copyright.md)
