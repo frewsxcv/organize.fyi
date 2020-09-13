@@ -20,4 +20,4 @@
 
 [Contributors](./contributors.md)
 
-[Copyright](./license.md)
+[Copyright](./copyright.md)
