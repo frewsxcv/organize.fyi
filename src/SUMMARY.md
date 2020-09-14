@@ -1,5 +1,7 @@
 # Tech Organizing Handbook
 
+- [What is organizing]()
+- [Who is this handbook for]()
 - [Examples](./examples.md)
 - [Rights if not unionizied]()
 - [Salary transparency]()
@@ -14,7 +16,7 @@
     - [International employees]()
     - [OPEIU]()
     - [CWA]()
-- [Burning out]()
+- [Handling burn out](handling-burn-out.md)
 
 ---
 
