@@ -11,7 +11,7 @@
     - [Rights if not unionizied]()
     - [Record meetings]()
     - [NLRA/NLRB]()
-    - [Protected Concerted activity](./protected-concerted-activity.md)
+    - [Protected Concerted activity](./worker-rights/protected-concerted-activity.md)
 - [Tools]()
     - [Email]()
     - [GlobaLeaks](./tools.md)
