@@ -1,10 +1,8 @@
 [book]
-authors = ["Corey Farwell"]
 language = "en"
 multilingual = false
 src = "src"
 title = "Tech Organizing Handbook"
 
 [output.html]
-site-url = "https://frewsxcv.github.io/tech-organizing-handbook"
 git-repository-url = "https://github.com/frewsxcv/tech-organizing-handbook"
