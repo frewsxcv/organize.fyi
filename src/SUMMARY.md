@@ -28,6 +28,8 @@
     - [Union busting](unionizing/union-busting.md)
 - [Handling burn out](handling-burn-out.md)
 - [Security considerations]()
+- [Outreach]()
+- [Working Groups]()
 - [Examples](./examples.md)
 
 ---
