@@ -26,18 +26,14 @@
         - [GOTV]()
     - [Voluntary recognition]()
     - [Union busting](unionizing/union-busting.md)
-- [Handling burn out](handling-burn-out.md)
-- [Security considerations]()
-- [Outreach]()
-- [Working Groups]()
-- [Examples](./examples.md)
-
----
-
-[Glossary](./glossary.md)
-
-[Contributing](./contributing.md)
-
-[Contributors](./contributors.md)
-
-[Copyright](./copyright.md)
+- [Misc]()
+    - [Handling burn out](handling-burn-out.md)
+    - [Security considerations]()
+    - [Outreach]()
+    - [Working Groups]()
+    - [Examples](./examples.md)
+- [Appendix]()
+    - [Glossary](./glossary.md)
+    - [Contributing](./contributing.md)
+    - [Contributors](./contributors.md)
+    - [Copyright](./copyright.md)
