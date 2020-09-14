@@ -1,6 +1,6 @@
 # Salary transparency
 
-This is a protected concerted activity.
+This is a [protected concerted activity](./protectected-concerted-activity.md).
 
 Managers are not protected.
 
