@@ -1,4 +1,4 @@
-# Tech Organizing Handbook
+[Tech Organizing Handbook](tech-organizing-handbook.md)
 
 - [What is organizing]()
 - [Who is this handbook for]()
