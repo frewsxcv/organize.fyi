@@ -1,5 +1,6 @@
 # Glossary
 
-- NLRB
 - NLRA
+- NLRB
+- Supervisor
 - Voluntary recognition
