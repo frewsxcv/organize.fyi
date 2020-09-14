@@ -2,13 +2,16 @@
 
 - [What is organizing]()
 - [Who is this handbook for]()
-- [Examples](./examples.md)
-- [Rights if not unionizied]()
-- [Salary transparency](salary-transparency.md)
-- [Record meetings]()
-- [NLRA/NLRB]()
-- [Protected Concerted activity]()
-- [Building consensus]()
+- [Processes]()
+    - [Establishing consensus]()
+- [Building solidarity]()
+    - [Salary transparency](salary-transparency.md)
+    - [Collective action]()
+- [Worker rights]()
+    - [Rights if not unionizied]()
+    - [Record meetings]()
+    - [NLRA/NLRB]()
+    - [Protected Concerted activity]()
 - [Tools]()
     - [Email]()
     - [GlobaLeaks](./tools.md)
@@ -25,6 +28,7 @@
     - [Union busting](unionizing/union-busting.md)
 - [Handling burn out](handling-burn-out.md)
 - [Security considerations]()
+- [Examples](./examples.md)
 
 ---
 
