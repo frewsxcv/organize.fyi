@@ -8,17 +8,23 @@
 - [Record meetings]()
 - [NLRA/NLRB]()
 - [Protected Concerted activity]()
+- [Building consensus]()
 - [Tools]()
     - [Email]()
     - [GlobaLeaks](./tools.md)
-- [Unions]()
+- [Unionizing]()
     - [Supervisors]()
     - [International employees]()
     - [OPEIU]()
     - [CWA]()
+    - [Election](unionizing/election.md)
+        - [GOTV]()
+    - [Voluntary recognition]()
 - [Handling burn out](handling-burn-out.md)
 
 ---
+
+[Glossary](./glossary.md)
 
 [Contributing](./contributing.md)
 
