@@ -18,6 +18,7 @@
     - [International employees]()
     - [OPEIU]()
     - [CWA]()
+    - [Voluntary recognition](unionizing/voluntary-recognition.md)
     - [Election](unionizing/election.md)
         - [GOTV]()
     - [Voluntary recognition]()
