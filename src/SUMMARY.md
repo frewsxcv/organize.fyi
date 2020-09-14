@@ -12,6 +12,7 @@
     - [Record meetings]()
     - [NLRA/NLRB]()
     - [Protected Concerted activity](./worker-rights/protected-concerted-activity.md)
+    - [State laws](./worker-rights/state-laws.md)
 - [Tools]()
     - [Email]()
     - [GlobaLeaks](./tools.md)
