@@ -4,7 +4,7 @@
 - [Who is this handbook for]()
 - [Examples](./examples.md)
 - [Rights if not unionizied]()
-- [Salary transparency]()
+- [Salary transparency](salary-transparency.md)
 - [Record meetings]()
 - [NLRA/NLRB]()
 - [Protected Concerted activity]()
@@ -24,6 +24,7 @@
     - [Voluntary recognition]()
     - [Union busting](unionizing/union-busting.md)
 - [Handling burn out](handling-burn-out.md)
+- [Security considerations]()
 
 ---
 
