@@ -34,6 +34,3 @@
     - [Examples](./examples.md)
 - [Appendix]()
     - [Glossary](./glossary.md)
-    - [Contributing](./contributing.md)
-    - [Contributors](./contributors.md)
-    - [Copyright](./copyright.md)
