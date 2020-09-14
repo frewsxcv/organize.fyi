@@ -1,7 +1,7 @@
 [Tech Organizing Handbook](tech-organizing-handbook.md)
 
-- [What is organizing]()
-- [Who is this handbook for]()
+- [What is organizing?]()
+- [Who is this handbook for?]()
 - [Processes]()
     - [Establishing consensus]()
 - [Building solidarity]()
@@ -16,7 +16,7 @@
 - [Tools]()
     - [Email]()
     - [GlobaLeaks](./tools.md)
-- [Unionizing]()
+- [Unionizing](./unionizing.md)
     - [What is a union?](./unionizing/what-is-a-union.md)
     - [Choosing a union](./unionizing/choosing-a-union.md)
     - [Supervisors]()
