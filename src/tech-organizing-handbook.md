@@ -22,4 +22,4 @@ The Tech Organizing Handbook is licensed under a [Creative Commons Attribution-S
 
 [cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
 [contributors]: ./contributors.md
-[repo]: https://github.com/frewsxcv/organizers
+[repo]: https://github.com/frewsxcv/tech-organizing-handbook
