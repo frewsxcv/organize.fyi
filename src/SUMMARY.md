@@ -9,7 +9,7 @@
     - [Collective action]()
 - [Worker rights]()
     - [Rights if not unionizied]()
-    - [Record meetings]()
+    - [Record meetings](./worker-rights/record-meetings.md)
     - [Interview questions about union activity](./worker-rights/interview-questions-about-union-activity.md)
     - [Wear union isgnia](./worker-rights/wear-union-insignia.md)
 - [Laws]()
