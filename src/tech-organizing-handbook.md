@@ -8,7 +8,7 @@ A handbook for workers organizing in the tech industry.
 
 ## Contributing
 
-The Tech Organizing Handbook is an open source project written by people like you. The source can be found [on GitHub][repo].
+The Tech Organizing Handbook is an open source project written by people like you. The source can be found [on GitHub][repo]. The handbook is generated via [mdBook][].
 
 ## Contributors
 
@@ -22,4 +22,5 @@ The Tech Organizing Handbook is licensed under a [Creative Commons Attribution-S
 
 [cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
 [contributors]: ./contributors.md
+[mdbook]: https://github.com/rust-lang/mdBook
 [repo]: https://github.com/frewsxcv/tech-organizing-handbook
