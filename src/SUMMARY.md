@@ -36,5 +36,6 @@
     - [Outreach]()
     - [Working Groups]()
     - [Examples](./examples.md)
+    - [Articles](./articles.md)
 - [Appendix]()
     - [Glossary](./glossary.md)
