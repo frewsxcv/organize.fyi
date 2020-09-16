@@ -2,6 +2,10 @@
 
 A handbook for workers organizing in the tech industry.
 
+## Legal
+
+(Add disclaimer here saying this is not legal advice and you should consult your lawyer)
+
 ## Contributing
 
 The Tech Organizing Handbook is an open source project written by people like you. The source can be found [on GitHub][repo].
