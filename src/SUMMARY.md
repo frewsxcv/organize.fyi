@@ -10,6 +10,7 @@
 - [Worker rights]()
     - [Rights if not unionizied]()
     - [Record meetings]()
+    - [Interview questions about union activity](./worker-rights/interview-questions-about-union-activity.md)
     - [NLRA](./nlra.md)
         - [Protected concerted activity](./worker-rights/nlra/protected-concerted-activity.md)
     - [Taft–Harley Act]()
