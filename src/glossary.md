@@ -2,8 +2,9 @@
 
 - _Agency shop_:
 - _Bargaining unit_:
+- _CBA_: Collective bargaining agreement
 - _Closed shop_:
-- _Collective bargaining agreement (CBA)_:
+- _Collective bargaining agreement_:
 - _Community of interest_:
 - _Concerted activity_:
 - _Confidential employee_:
@@ -12,13 +13,16 @@
 - _Mail secret ballot election_:
 - _Manual secret ballot election_:
 - _Mixed mail/manual secret ballot election_:
+- _National Labor Relations Board_: An agency of the United Sstates 
 - _NLRA_:
-- _NLRB_:
+- _NLRB_: National Labor Relations Board
 - _Open shop_:
 - _Right-to-work law_:
 - _Sonotone election_:
 - _Supervisor_:
-- _Unfair labor practice (ULP):
+- _ULP_: Unfair labor practice
+- _Unfair labor practice_: An action taken by an employer or union that violates the NLRA
 - _Union dues_:
 - _Union shop_:
 - _Voluntary recognition_:
+- _Weingarten Rights_:
