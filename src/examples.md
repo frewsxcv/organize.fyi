@@ -227,3 +227,4 @@ A list of recent labor organizing efforts.
 - https://twitter.com/ActBlueUnion/status/1293584775882702849
 - https://twitter.com/dosomethingEQ
 - https://twitter.com/BlueStateU/status/1306262145781334017
+- https://twitter.com/IndivisiUnion
