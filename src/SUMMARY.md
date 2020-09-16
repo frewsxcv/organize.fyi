@@ -12,6 +12,7 @@
     - [Record meetings]()
     - [NLRA]()
         - [Protected concerted activity](./worker-rights/nlra/protected-concerted-activity.md)
+    - [Taft–Harley Act]()
     - [State laws](./worker-rights/state-laws.md)
 - [Tools]()
     - [Email]()
