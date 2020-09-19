@@ -4,6 +4,7 @@
 - Good prep for group meetings before captive meetings or 1:1 <http://www.jwj.org/unionbusters-101>
 - Retaliation: <https://www.workplacefairness.org/unions-retaliation>
 - <https://union-busting-bingo.glitch.me/>
+- <https://unionbustingplaybook.com/>
 
 ## Examples
 
