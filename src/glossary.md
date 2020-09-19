@@ -2,6 +2,7 @@
 
 - _Agency shop_:
 - _Bargaining unit_:
+- _Captive audience meeting_:
 - _CBA_: Collective bargaining agreement
 - _Closed shop_:
 - _Collective bargaining agreement_:
@@ -26,3 +27,4 @@
 - _Union shop_:
 - _Voluntary recognition_:
 - _Weingarten Rights_:
+- _Wildcat strike_:
