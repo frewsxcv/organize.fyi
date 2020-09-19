@@ -4,7 +4,7 @@
 - [Who is this handbook for?]()
 - [Processes]()
     - [Establishing consensus]()
-- [Building solidarity]()
+- [Organizing](organizing.md)
     - [Salary transparency](salary-transparency.md)
     - [Collective action]()
 - [Worker rights]()
