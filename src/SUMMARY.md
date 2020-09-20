@@ -12,7 +12,7 @@
     - [Record meetings](./worker-rights/record-meetings.md)
     - [Interview questions about union activity](./worker-rights/interview-questions-about-union-activity.md)
     - [Wear union isgnia](./worker-rights/wear-union-insignia.md)
-- [Laws]()
+- [Laws](./laws.md)
     - [NLRA](./nlra.md)
         - [Protected concerted activity](./worker-rights/nlra/protected-concerted-activity.md)
     - [Taft–Harley Act]()
