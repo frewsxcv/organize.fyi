@@ -30,6 +30,7 @@
     - [Choosing a union](./unionizing/choosing-a-union.md)
     - [Who can be in a union?](./unionizing/who-can-be-in-a-union.md)
     - [Voluntary recognition](unionizing/voluntary-recognition.md)
+    - [NLRB election](./unionizing/nlrb-election.md)
     - [Election](unionizing/election.md)
         - [GOTV]()
     - [Voluntary recognition]()
