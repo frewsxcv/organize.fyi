@@ -6,6 +6,8 @@
 >
 > https://definitions.uslegal.com/c/community-of-interest/
 
-## Supervisors
+"Community of Interest" was defined in NLRB v. Catherine McAuley Health Ctr., 885 F.2d 341 (6th Cir. 1989).
+
+## Supervisors & managers
 
 ## International employees
