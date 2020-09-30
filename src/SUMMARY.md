@@ -33,7 +33,6 @@
     - [NLRB election](./unionizing/nlrb-election.md)
     - [Election](unionizing/election.md)
         - [GOTV]()
-    - [Voluntary recognition]()
     - [Union busting](unionizing/union-busting.md)
 - [Misc]()
     - [Handling burn out](handling-burn-out.md)
