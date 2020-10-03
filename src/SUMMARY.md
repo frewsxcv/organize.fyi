@@ -40,6 +40,7 @@
     - [Security considerations]()
     - [Outreach]()
     - [Working Groups]()
+    - [Resources](./resources.md)
     - [Examples](./examples.md)
     - [Articles](./articles.md)
 - [Appendix]()
