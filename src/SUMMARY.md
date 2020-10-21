@@ -22,6 +22,8 @@
     - [Offboarding]()
     - [Leaderboard]()
     - [Website]()
+- [Tips]()
+    - [In-office actions](./in-office-actions.md)
 - [Tools]()
     - [Email]()
     - [GlobaLeaks](./tools.md)
