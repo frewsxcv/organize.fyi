@@ -145,6 +145,8 @@ The majority of newsrooms are organized under the NewsGuild-CWA banner, followed
 - https://twitter.com/jstreetunion
 - https://twitter.com/SplcUnion
 - https://www.vice.com/en_us/article/5dzqxn/greenpeace-workers-launch-union-drive
+- https://twitter.com/Nor_Cal_United
+- https://twitter.com/ACLUKSUnited
 
 ## Games
 
