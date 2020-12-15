@@ -15,7 +15,7 @@ jobs:
         uses: actions/setup-node@v2.1.3
 
       - name: Install markdown-to-html
-        run: npm install markdown-to-html -g
+        run: npm install markdown-to-html
 
       - name: Build site
         run: markdown README.md > index.html
