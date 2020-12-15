@@ -24,7 +24,7 @@ jobs:
 
       - name: Build site
         run: |
-          gh-mod-toc --insert README.md
+          gh-md-toc --insert README.md
           npx markdown README.md > index.html
 
       - name: Deploy site
