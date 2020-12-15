@@ -1,0 +1,11 @@
+#!/bin/bash
+
+mkdir -p build
+
+cp README.md tmp.md
+
+./gh-md-toc --insert tmp.md
+
+pulldown-cmark < tmp.md > build/index.html
+
+rm tmp.md

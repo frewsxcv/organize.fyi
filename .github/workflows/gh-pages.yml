@@ -25,13 +25,11 @@ jobs:
           chmod +x gh-md-toc
 
       - name: Build site
-        run: |
-          ./gh-md-toc --insert README.md
-          pulldown-cmark <  README.md > index.html
+        run: ./build-site
 
       - name: Deploy site
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./
+          publish_dir: ./build/
           cname: organize.fyi
