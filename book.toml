@@ -1,8 +1,0 @@
-[book]
-language = "en"
-multilingual = false
-src = "src"
-title = "Tech Organizing Handbook"
-
-[output.html]
-git-repository-url = "https://github.com/frewsxcv/tech-organizing-handbook"

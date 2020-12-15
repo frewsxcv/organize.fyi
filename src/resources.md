@@ -1,3 +1,0 @@
-# Resources
-
-- Tech Workers Coalition
