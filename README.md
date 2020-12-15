@@ -29,7 +29,7 @@ A list of recent labor organizing efforts.
       * [Co-ops](#co-ops)
       * [Unsorted](#unsorted)
 
-<!-- Added by: runner, at: Tue Dec 15 20:52:44 UTC 2020 -->
+<!-- Added by: runner, at: Tue Dec 15 21:04:49 UTC 2020 -->
 
 <!--te-->
 
