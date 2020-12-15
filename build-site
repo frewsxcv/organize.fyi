@@ -10,6 +10,9 @@ chmod +x gh-md-toc
 ./gh-md-toc --insert tmp.md
 rm gh-md-toc
 
-pulldown-cmark < tmp.md > build/index.html
+pulldown-cmark < tmp.md > tmp.html
 
+cat template.html tmp.html > build/index.html
+
+rm tmp.html
 rm tmp.md*
