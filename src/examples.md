@@ -18,7 +18,8 @@ A list of recent labor organizing efforts.
 - [Mobile Workers Alliance](https://twitter.com/mobile_alliance) - Mobile professionals behind the success of apps like Uber, Lyft, Postmates, and more
 - [Philadelphia Drivers Union](https://twitter.com/PhlDriversUnion)
 - [Rideshare Drivers United](https://twitter.com/_drivers_united) - An independent, worker-led organization of rideshare drivers uniting for fair pay & a voice on the job
-
+- [Independent Drivers Guild](https://twitter.com/drivingguild) - Affiliated with [Machinist Union](https://twitter.com/MachinistsUnion), and partly funded by Uber
+- [New York Taxi Worker Alliance](https://twitter.com/NYTWA) - National union for yellow/green cabs, and app based gig drivers 
 ## Tech
 
 - [#TechSolidarity](https://twitter.com/techspeaksout)
