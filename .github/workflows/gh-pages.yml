@@ -14,8 +14,10 @@ jobs:
       - name: Setup Node.js environment
         uses: actions/setup-node@v2.1.3
 
-      - name: Install markdown-to-html
-        run: npm install markdown-to-html
+      - uses: actions-rs/install@v0.1
+        with:
+          crate: pulldown-cmark
+          version: latest
 
       - name: Install markdown-to-html
         run: |
@@ -25,11 +27,11 @@ jobs:
       - name: Build site
         run: |
           ./gh-md-toc --insert README.md
-          npx markdown README.md > index.html
+          pulldown-cmark <  README.md > index.html
 
       - name: Deploy site
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./  
+          publish_dir: ./
           cname: organize.fyi
