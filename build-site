@@ -4,8 +4,12 @@ mkdir -p build
 
 cp README.md tmp.md
 
+# Generate TOC
+curl --proto '=https' --tlsv1.2 -sSf https://raw.githubusercontent.com/ekalinin/github-markdown-toc/master/gh-md-toc > gh-md-toc
+chmod +x gh-md-toc
 ./gh-md-toc --insert tmp.md
+rm gh-md-toc
 
 pulldown-cmark < tmp.md > build/index.html
 
-rm tmp.md
+rm tmp.md*
