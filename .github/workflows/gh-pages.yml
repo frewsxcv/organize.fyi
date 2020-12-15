@@ -17,8 +17,15 @@ jobs:
       - name: Install markdown-to-html
         run: npm install markdown-to-html
 
+      - name: Install markdown-to-html
+        run: |
+          wget https://raw.githubusercontent.com/ekalinin/github-markdown-toc/master/gh-md-toc
+          chmod +x gh-mod-toc
+
       - name: Build site
-        run: npx markdown README.md > index.html
+        run: |
+          gh-mod-toc --insert README.md
+          npx markdown README.md > index.html
 
       - name: Deploy site
         uses: peaceiris/actions-gh-pages@v3
