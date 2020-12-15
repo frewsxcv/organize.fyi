@@ -18,8 +18,7 @@ A list of recent labor organizing efforts.
 - [Mobile Workers Alliance](https://twitter.com/mobile_alliance) - Mobile professionals behind the success of apps like Uber, Lyft, Postmates, and more
 - [Philadelphia Drivers Union](https://twitter.com/PhlDriversUnion)
 - [Rideshare Drivers United](https://twitter.com/_drivers_united) - An independent, worker-led organization of rideshare drivers uniting for fair pay & a voice on the job
-- [Independent Drivers Guild](https://twitter.com/drivingguild) - Affiliated with [Machinist Union](https://twitter.com/MachinistsUnion), and partly funded by Uber
-- [New York Taxi Worker Alliance](https://twitter.com/NYTWA) - National union for yellow/green cabs, and app based gig drivers 
+
 ## Tech
 
 - [#TechSolidarity](https://twitter.com/techspeaksout)
@@ -70,56 +69,63 @@ A list of recent labor organizing efforts.
 - https://twitter.com/TartineUnion
 - [Burgerville Workers Union](https://twitter.com/BVWU_IWW)
 
-## Unions
-
-- https://twitter.com/CODE_CWA
-- OPEIU
-- https://twitter.com/WGAEast
-- https://twitter.com/nyguild
-- https://twitter.com/wemakenpr
-
 ## Media
+The majority of newsrooms are organized under the NewsGuild-CWA banner, followed by Writers Guild of America, East.
 
+### NewsGuild CWA
+- [Sentinal Guild (Tribune owned)](https://www.sentinelguild.org)
+- [Tribune Content Guild](https://twitter.com/TBContentGuild)
+#### Media Guild of the West, Local 39213
+- [Voice Media Guild](https://twitter.com/VMGGuild)
+- [L.A. Times Guild](https://twitter.com/latguild) https://latguild.com/
+
+#### New York Guild, Local 31003 https://www.nyguild.org
 - [Ars Union](https://twitter.com/ars_union)
 - [BuzzFeed News Union](https://twitter.com/bfnewsunion)
 - [Daily Beast Union](https://twitter.com/dailybeastunion)
-- [Fast Company Union](https://twitter.com/FastCoUnion/)
-- [Foreign Policy Union](https://twitter.com/fp_union)
 - [Fortune Union](https://twitter.com/Fortune_Union)
+- [NBC Digital NewsGuild](https://twitter.com/nbcnewsguild) https://www.nbcnewsguild.com/
+- [New York Mag Union](https://twitter.com/NYMagUnion)
+- [People Magazine Union](https://twitter.com/peoplemagunion)
+- [Sports Illustrated Union](https://twitter.com/si_union)
+- [The New Republic Union](https://twitter.com/tnrunion)
+- [The New York Times Guild](https://twitter.com/NYTimesGuild)
+- [The New Yorker Union](https://twitter.com/newyorkerunion) https://www.newyorkerunion.com/
+- [TIME Union](https://twitter.com/timemagunion)
+- [WIRED Union](https://twitter.com/wiredunion)
+
+#### Pacific Northwest Newspaper Guild, Local 37082
+- [Seattle Times Digital Union](https://twitter.com/STdigitalunion/status/1265296968886046721)
+
+#### Washington-Baltimore News Guild, Local 32035
+- [Foreign Policy Union](https://twitter.com/fp_union)
+- [The Washington Post Guild](https://twitter.com/PostGuild) https://postguild.org/
+
+### Writers Guild of America, EAST
+- [Fast Company Union](https://twitter.com/FastCoUnion/)
 - [Gimlet Union](https://twitter.com/GimletUnion)
 - [GMG Union](https://twitter.com/gmgunion)
 - [Hearst Magazines Media Union](https://twitter.com/HearstUnion)
 - [Huffington Post Union](https://twitter.com/HuffPostUnion)
-- [L.A. Times Guild](https://twitter.com/latguild)
-- [Mother Jones Union](https://twitter.com/MoJoUnion)
-- [NBC Digital NewsGuild](https://twitter.com/nbcnewsguild)
-- [New York Mag Union](https://twitter.com/NYMagUnion)
 - [Onion Inc Union](https://twitter.com/OnionIncUnion)
-- [People Magazine Union](https://twitter.com/peoplemagunion)
-- [Seattle Times Digital Union](https://twitter.com/STdigitalunion/status/1265296968886046721)
+- [Parcast Union](https://twitter.com/parcastunion/)
 - [Slate Union](https://twitter.com/SlateUnion)
-- [Sports Illustrated Union](https://twitter.com/si_union)
 - [The Intercept Union](https://twitter.com/InterceptUnion)
-- [The New Republic Union](https://twitter.com/tnrunion)
-- [The New York Times Guild](https://twitter.com/NYTimesGuild)
-- [The New Yorker Union](https://twitter.com/newyorkerunion)
-- [The Washington Post Guild](https://twitter.com/PostGuild)
-- [The Young Turks Union](https://twitter.com/TYTUnion)
 - [ThinkProgress Union](https://twitter.com/TP_Union)
 - [Thrillest Union](https://twitter.com/thrillistunion)
-- [TIME Union](https://twitter.com/timemagunion)
-- [Tribune Content Guild](https://twitter.com/TBContentGuild)
 - [Vice Union](https://twitter.com/viceunion)
-- [Voice Media Guild](https://twitter.com/VMGGuild)
 - [Vox Media Union](https://twitter.com/vox_union)
-- [WIRED Union](https://twitter.com/wiredunion)
-- https://labornotes.org/blogs/2020/05/they-won-new-union-while-working-home
-- https://twitter.com/parcastunion/
 
-### Regional?
+### IATSE (International Alliance of Theatrical Stage Employees)
+#### Motions Pictures Editor Guild, Local 700
+- [The Young Turks Union](https://twitter.com/TYTUnion)
+- [Vice Union](https://twitter.com/viceunion)
 
-- [The Montana News Guild](https://twitter.com/mtnewsguild)
-- [Boston Newspaper Guild](https://twitter.com/BostonNewsGuild)
+### United Auto Workers
+- [Mother Jones Union](https://twitter.com/MoJoUnion)
+
+### SAG-AFTRA
+- [Vice Union](https://twitter.com/viceunion)
 
 ## Journalists
 
