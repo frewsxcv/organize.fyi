@@ -20,7 +20,7 @@ jobs:
       - name: Install markdown-to-html
         run: |
           wget https://raw.githubusercontent.com/ekalinin/github-markdown-toc/master/gh-md-toc
-          chmod +x gh-mod-toc
+          chmod +x gh-md-toc
 
       - name: Build site
         run: |
