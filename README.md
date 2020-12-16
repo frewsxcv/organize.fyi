@@ -150,6 +150,7 @@ The majority of newsrooms are organized under the NewsGuild-CWA banner, followed
 
 # Policy
 
+- [Sunrise Movement Staff Union](https://twitter.com/smvmtworkers/status/1338964332223356931)
 - https://twitter.com/CPPP_TX
 
 # Non-profit
