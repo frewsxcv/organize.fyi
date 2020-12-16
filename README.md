@@ -70,7 +70,7 @@ A list of recent labor organizing efforts.
 - https://twitter.com/TartineUnion
 - [Burgerville Workers Union](https://twitter.com/BVWU_IWW)
 
-## Media
+# Media
 
 The majority of newsrooms are organized under the NewsGuild-CWA banner, followed by Writers Guild of America, East.
 
