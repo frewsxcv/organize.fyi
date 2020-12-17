@@ -252,3 +252,4 @@ The majority of newsrooms are organized under the NewsGuild-CWA banner, followed
 - https://twitter.com/dosomethingEQ
 - https://twitter.com/BlueStateU/status/1306262145781334017
 - https://twitter.com/IndivisiUnion
+- https://twitter.com/EMILYsUnion/status/1339284709033963521
