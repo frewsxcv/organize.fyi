@@ -156,6 +156,7 @@ The majority of newsrooms are organized under the NewsGuild-CWA banner, followed
 
 # Non-profit
 
+- [ALDF United](https://twitter.com/ALDFUnited) - Union for Animal League Defense Fund
 - https://twitter.com/GroundworkU
 - https://twitter.com/jstreetunion
 - https://twitter.com/SplcUnion
