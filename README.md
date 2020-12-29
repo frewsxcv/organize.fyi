@@ -57,6 +57,7 @@ A list of recent labor organizing efforts.
 # Art
 
 - https://twitter.com/newmuseum_union
+- [The New School Labor Coalition](https://twitter.com/TNSLCoalition)
 
 # Grocery
 
