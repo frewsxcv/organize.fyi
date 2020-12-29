@@ -100,6 +100,7 @@ The majority of newsrooms are organized under the NewsGuild-CWA banner, followed
 - [The New York Times Guild](https://twitter.com/NYTimesGuild)
 - [The New Yorker Union](https://twitter.com/newyorkerunion) https://www.newyorkerunion.com/
 - [TIME Union](https://twitter.com/timemagunion)
+- [Wirecutter Union](https://twitter.com/wirecutterunion)
 - [WIRED Union](https://twitter.com/wiredunion)
 
 ### Pacific Northwest Newspaper Guild, Local 37082
@@ -225,7 +226,6 @@ The majority of newsrooms are organized under the NewsGuild-CWA banner, followed
 - https://twitter.com/book_workers
 - https://twitter.com/uaw2865?lang=en
 - https://twitter.com/payusmoreucsc?lang=en
-- https://twitter.com/wirecutterunion
 - https://twitter.com/GuildatBIG
 - https://twitter.com/NelpStaff
 - https://twitter.com/reprorightsuni
