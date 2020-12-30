@@ -71,6 +71,7 @@ A list of recent labor organizing efforts.
 - https://twitter.com/BVWU_IWW
 - https://twitter.com/TartineUnion
 - [Burgerville Workers Union](https://twitter.com/BVWU_IWW)
+- [FastFoodRights / McStrike](https://twitter.com/FastfoodRights) - Campaign initiated by the Baker's Food and Allied Workers Union (BFAWU)
 
 # Media
 
@@ -238,7 +239,6 @@ The majority of newsrooms are organized under the NewsGuild-CWA banner, followed
 - https://www.aft.org/news/ivy-league-grad-workers-win-historic-first-union-contract
 - https://www.kqed.org/arts/13881257/sfmoma-faces-censorship-racism-accusations-over-george-floyd-response
 - https://twitter.com/NorCalFF15
-- https://twitter.com/FastfoodRights
 - https://twitter.com/FightFor15FL
 - https://twitter.com/fightfor15
 - https://github.com/collective-action/tech
