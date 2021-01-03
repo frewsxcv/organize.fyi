@@ -150,6 +150,7 @@ The majority of newsrooms are organized under the NewsGuild-CWA banner, followed
 
 # Policy
 
+- [Indivisible Union](https://twitter.com/IndivisiUnion) - Staff union for [Indivisible](https://indivisible.org/). Organized with Washington-Baltimore News Guild Local 32035.
 - https://twitter.com/CPPP_TX
 
 # Non-profit
@@ -249,4 +250,3 @@ The majority of newsrooms are organized under the NewsGuild-CWA banner, followed
 - https://twitter.com/ActBlueUnion/status/1293584775882702849
 - https://twitter.com/dosomethingEQ
 - https://twitter.com/BlueStateU/status/1306262145781334017
-- https://twitter.com/IndivisiUnion
