@@ -46,6 +46,7 @@ A list of recent labor organizing efforts.
 - [Tech Workers Coalition: NYC](https://twitter.com/techworkerscony)
 - [Tech Workers Coalition](https://twitter.com/techworkersco)
 - [United HCL Workers of Pittsburgh](https://twitter.com/HCLtechUnion) - Tech professionals and Google contractors unionzied with the USW
+- [United Tech & Allied Workers](https://twitter.com/UTAW_uk) - UTAW is a branch of the Communication Workers Union (UK) which seeks to represent and fight for workers interests in the tech industry.
 
 # Music
 
@@ -56,6 +57,7 @@ A list of recent labor organizing efforts.
 # Art
 
 - https://twitter.com/newmuseum_union
+- [The New School Labor Coalition](https://twitter.com/TNSLCoalition)
 
 # Grocery
 
@@ -69,8 +71,9 @@ A list of recent labor organizing efforts.
 - https://twitter.com/BVWU_IWW
 - https://twitter.com/TartineUnion
 - [Burgerville Workers Union](https://twitter.com/BVWU_IWW)
+- [FastFoodRights / McStrike](https://twitter.com/FastfoodRights) - Campaign initiated by the Baker's Food and Allied Workers Union (BFAWU)
 
-## Media
+# Media
 
 The majority of newsrooms are organized under the NewsGuild-CWA banner, followed by Writers Guild of America, East.
 
@@ -98,6 +101,7 @@ The majority of newsrooms are organized under the NewsGuild-CWA banner, followed
 - [The New York Times Guild](https://twitter.com/NYTimesGuild)
 - [The New Yorker Union](https://twitter.com/newyorkerunion) https://www.newyorkerunion.com/
 - [TIME Union](https://twitter.com/timemagunion)
+- [Wirecutter Union](https://twitter.com/wirecutterunion)
 - [WIRED Union](https://twitter.com/wiredunion)
 
 ### Pacific Northwest Newspaper Guild, Local 37082
@@ -118,6 +122,7 @@ The majority of newsrooms are organized under the NewsGuild-CWA banner, followed
 - [Huffington Post Union](https://twitter.com/HuffPostUnion)
 - [Onion Inc Union](https://twitter.com/OnionIncUnion)
 - [Parcast Union](https://twitter.com/parcastunion/)
+- [Ringer Union](- https://twitter.com/RingerUnion)
 - [Slate Union](https://twitter.com/SlateUnion)
 - [The Intercept Union](https://twitter.com/InterceptUnion)
 - [ThinkProgress Union](https://twitter.com/TP_Union)
@@ -151,10 +156,12 @@ The majority of newsrooms are organized under the NewsGuild-CWA banner, followed
 # Policy
 
 - [Indivisible Union](https://twitter.com/IndivisiUnion) - Staff union for [Indivisible](https://indivisible.org/). Organized with Washington-Baltimore News Guild Local 32035.
+- [Sunrise Movement Staff Union](https://twitter.com/smvmtworkers/status/1338964332223356931)
 - https://twitter.com/CPPP_TX
 
 # Non-profit
 
+- [ALDF United](https://twitter.com/ALDFUnited) - Union for Animal League Defense Fund
 - https://twitter.com/GroundworkU
 - https://twitter.com/jstreetunion
 - https://twitter.com/SplcUnion
@@ -221,7 +228,6 @@ The majority of newsrooms are organized under the NewsGuild-CWA banner, followed
 - https://twitter.com/book_workers
 - https://twitter.com/uaw2865?lang=en
 - https://twitter.com/payusmoreucsc?lang=en
-- https://twitter.com/wirecutterunion
 - https://twitter.com/GuildatBIG
 - https://twitter.com/NelpStaff
 - https://twitter.com/reprorightsuni
@@ -233,9 +239,7 @@ The majority of newsrooms are organized under the NewsGuild-CWA banner, followed
 - https://twitter.com/popupguild/status/1269013249070112775
 - https://www.aft.org/news/ivy-league-grad-workers-win-historic-first-union-contract
 - https://www.kqed.org/arts/13881257/sfmoma-faces-censorship-racism-accusations-over-george-floyd-response
-- https://twitter.com/RingerUnion
 - https://twitter.com/NorCalFF15
-- https://twitter.com/FastfoodRights
 - https://twitter.com/FightFor15FL
 - https://twitter.com/fightfor15
 - https://github.com/collective-action/tech
@@ -250,3 +254,4 @@ The majority of newsrooms are organized under the NewsGuild-CWA banner, followed
 - https://twitter.com/ActBlueUnion/status/1293584775882702849
 - https://twitter.com/dosomethingEQ
 - https://twitter.com/BlueStateU/status/1306262145781334017
+- https://twitter.com/EMILYsUnion/status/1339284709033963521
