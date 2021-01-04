@@ -233,7 +233,6 @@ The majority of newsrooms are organized under the NewsGuild-CWA banner, followed
 - https://twitter.com/GuildatBIG
 - https://twitter.com/NelpStaff
 - https://twitter.com/reprorightsuni
-- https://actionnetwork.org/petitions/tell-the-young-turks-to-recognize-their-production-crews-union
 - https://mobile.twitter.com/BxDUnion/status/1266375333680345108
 - https://www.cityandstateny.com/articles/politics/new-york-city/city-hall-staffers-ask-union-recognition.html
 - https://www.politico.com/newsletters/massachusetts-playbook/2020/05/27/kennedy-campaign-staff-joins-union-new-documents-in-soldiers-home-saga-massgop-in-dire-straits-489339
