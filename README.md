@@ -79,7 +79,7 @@ A list of recent labor organizing efforts.
 
 The majority of newsrooms are organized under the NewsGuild-CWA banner, followed by Writers Guild of America, East.
 
-## NewsGuild CWA
+## [NewsGuild CWA](https://twitter.com/newsguild)
 
 - [Sentinal Guild (Tribune owned)](https://www.sentinelguild.org)
 - [Tribune Content Guild](https://twitter.com/TBContentGuild)
@@ -89,7 +89,7 @@ The majority of newsrooms are organized under the NewsGuild-CWA banner, followed
 - [Voice Media Guild](https://twitter.com/VMGGuild)
 - [L.A. Times Guild](https://twitter.com/latguild) https://latguild.com/
 
-### New York Guild, Local 31003 https://www.nyguild.org
+### [New York Guild, Local 31003](https://www.nyguild.org)
 
 - [Ars Union](https://twitter.com/ars_union)
 - [BuzzFeed News Union](https://twitter.com/bfnewsunion)
@@ -222,7 +222,6 @@ The majority of newsrooms are organized under the NewsGuild-CWA banner, followed
 - https://twitter.com/codaunite
 - https://twitter.com/ICGuild
 - https://twitter.com/IATSE
-- https://twitter.com/newsguild
 - https://twitter.com/PublicBankNYC
 - https://twitter.com/ForUsNotAmazon
 - https://twitter.com/SVRising
