@@ -23,6 +23,7 @@ A list of recent labor organizing efforts.
 # Tech
 
 - [#TechSolidarity](https://twitter.com/techspeaksout)
+- [Alphabet Workers Union](https://alphabetworkersunion.org/)
 - [Amazon Employees For Climate Justice](https://twitter.com/AMZNforClimate) - Amazon employees who want climate leadership
 - [Amazonians: We Won't Build It](https://twitter.com/WeWontBuildIt) - Amazon workers calling for accountability and transparency in the tech they build
 - [Athena](https://twitter.com/athenaforall) - A coalition to end Amazon’s injustices—spying, gentrification, dirty energy, monopoly & worker abuse
@@ -36,6 +37,7 @@ A list of recent labor organizing efforts.
 - [Kickstarter United](https://twitter.com/ksr_united) - Kickstarter workers unionized with OPEIU Local 153
 - [Microsoft Workers 4 Good](https://twitter.com/MsWorkers4) - Amazon employees who want climate leadership
 - [NYC-DSA Tech Action](https://twitter.com/NYCDSATechWG)
+- [N26 Works Council](https://www.worker26.com/)
 - [Square Workers for Climate Action](https://twitter.com/SquareWorkers)
 - [Tech Workers Coalition: Austin](https://twitter.com/twcatx)
 - [Tech Workers Coalition: Bangalore](https://twitter.com/twc_bangalore)
