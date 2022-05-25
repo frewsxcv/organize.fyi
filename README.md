@@ -5,6 +5,7 @@ A list of recent labor organizing efforts.
 
 # Retail / warehouse / logistics
 
+- [Amazon Labor Union](https://www.amazonlaborunion.org)
 - [Amazonians United New York City](https://twitter.com/NYCAmazonians)
 - [DCH1 Amazonians United](https://twitter.com/Dch1United) - Chicago area Amazon workers
 - [Everlane Union](https://twitter.com/EverlaneU)
