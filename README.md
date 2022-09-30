@@ -37,6 +37,7 @@ A list of recent labor organizing efforts.
 - [Googlers for Human Rights](https://twitter.com/EthicalGooglers)
 - [Kickstarter United](https://twitter.com/ksr_united) - Kickstarter workers unionized with OPEIU Local 153
 - [Microsoft Workers 4 Good](https://twitter.com/MsWorkers4) - Amazon employees who want climate leadership
+- [Nava United](https://twitter.com/Nava_United) - Nava PBC workers unionized with OPEIU Local 1010
 - [NYC-DSA Tech Action](https://twitter.com/NYCDSATechWG)
 - [N26 Works Council](https://www.worker26.com/)
 - [Square Workers for Climate Action](https://twitter.com/SquareWorkers)
