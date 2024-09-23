@@ -53,6 +53,7 @@ A list of recent labor organizing efforts.
 - [Tech Workers Network](https://www.techworkers.network) from [Prospect Union](https://prospect.org.uk/), UK
 - [United HCL Workers of Pittsburgh](https://twitter.com/HCLtechUnion) - Tech professionals and Google contractors unionzied with the USW
 - [United Tech & Allied Workers](https://twitter.com/UTAW_uk) - UTAW is a branch of the Communication Workers Union (UK) which seeks to represent and fight for workers interests in the tech industry.
+- [Voice of African Content Moderators](https://x.com/ContmoderatorAf) - fighting for the rights of content moderators in Africa.
 
 # Music
 
