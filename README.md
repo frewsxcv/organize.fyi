@@ -16,6 +16,7 @@ A list of recent labor organizing efforts.
 
 # Gig
 
+- [The California Gig Workers Union](https://cagigunion.org) - the collective voice of tens of thousands of Californians who work for gig economy corporations like Uber, Lyft, DoorDash, Instacart, and others.
 - [Gig Workers Rising](https://twitter.com/GigWorkersRise) - A community of app and platform workers organizing for better wages, working conditions and jobs
 - [Mobile Workers Alliance](https://twitter.com/mobile_alliance) - Mobile professionals behind the success of apps like Uber, Lyft, Postmates, and more
 - [Philadelphia Drivers Union](https://twitter.com/PhlDriversUnion)
@@ -25,34 +26,37 @@ A list of recent labor organizing efforts.
 
 - [#TechSolidarity](https://twitter.com/techspeaksout)
 - [Alphabet Workers Union](https://alphabetworkersunion.org/)
-- [Amazon Employees For Climate Justice](https://twitter.com/AMZNforClimate) - Amazon employees who want climate leadership
+- [Amazon Employees For Climate Justice](https://www.amazonclimatejustice.org) ([X](https://twitter.com/AMZNforClimate)) - Amazon employees who want climate leadership
 - [Amazonians: We Won't Build It](https://twitter.com/WeWontBuildIt) - Amazon workers calling for accountability and transparency in the tech they build
-- [Athena](https://twitter.com/athenaforall) - A coalition to end Amazon’s injustices—spying, gentrification, dirty energy, monopoly & worker abuse
+- [Athena](https://athenaforall.org) ([X](https://twitter.com/athenaforall)) - A coalition to end Amazon’s injustices—spying, gentrification, dirty energy, monopoly & worker abuse
+- [Campaign to Organize Digital Employees (CODE-CWA)](https://code-cwa.org) - a union movement of over 4000 worker-organizers fighting every single day to build the voice and power necessary to ensure the future of the tech, games, and digital industries in the United States and Canada. Part of the Communications Workers of America (CWA).
 - [Collective Action in Tech](https://data.collectiveaction.tech/) - attempting to document all collective action from workers in the tech industry. Also includes a [list of tech unions in the US](https://data.collectiveaction.tech/unions).
-- [DSA National Tech Committee](https://twitter.com/DSATechCmte)
+- [DSA National Tech Committee](https://tech.dsausa.org) ([X](https://twitter.com/DSATechCmte))
 - [Facebook Employees for Climate Action](https://twitter.com/FBClimateAction)
 - [githubbers](https://twitter.com/githubbers/) - GitHub workers demanding that GitHub management cancel the ICE contract
 - [Glitch union](https://techcrunch.com/2020/03/13/online-code-collaboration-tool-glitch-votes-to-unionize/) - Glitch workers unionized with CWA Local 1101
 - [Google Walkout For Real Change](https://twitter.com/GoogleWalkout)
-- [Googlers for Climate Action](Ahttps://twitter.com/ClimateGooglers)
+- [Googlers for Climate Action](https://twitter.com/ClimateGooglers)
 - [Googlers for Human Rights](https://twitter.com/EthicalGooglers)
-- [Kickstarter United](https://twitter.com/ksr_united) - Kickstarter workers unionized with OPEIU Local 153
-- [Microsoft Workers 4 Good](https://twitter.com/MsWorkers4) - Amazon employees who want climate leadership
-- [Nava United](https://twitter.com/Nava_United) - Nava PBC workers unionized with OPEIU Local 1010
-- [NYC-DSA Tech Action](https://twitter.com/NYCDSATechWG)
+- [Internet Creators Guild](https://twitter.com/ICGuild) - a non-profit membership organization that advocates for internet creators to make their profession more sustainable.
+- [Kickstarter United](https://kickstarterunited.org) ([X](https://twitter.com/ksr_united)) - Kickstarter workers unionized with OPEIU Local 153
+- [Microsoft Workers 4 Good](https://twitter.com/MsWorkers4)
+- [Nava United](https://www.navaunited.org) ([X](https://twitter.com/Nava_United)) - Nava PBC workers unionized with OPEIU Local 1010
+- [NYC-DSA Tech Action](https://techaction.nyc) ([X](https://twitter.com/NYCDSATechWG))
 - [N26 Works Council](https://www.worker26.com/)
+- [SiliconValleyRising](https://siliconvalleyrising.org) ([X](https://twitter.com/SVRising)) - Building a tech economy that works for everyone
 - [Square Workers for Climate Action](https://twitter.com/SquareWorkers)
-- [Tech Workers Coalition: Austin](https://twitter.com/twcatx)
+- [Tech Workers Coalition](https://techworkerscoalition.org) ([X](https://twitter.com/techworkersco))
+- [Tech Workers Coalition: Austin](https://techworkerscoalition.org/austin/) ([X](https://twitter.com/twcatx))
 - [Tech Workers Coalition: Bangalore](https://twitter.com/twc_bangalore)
-- [Tech Workers Coalition: Berlin](https://twitter.com/TechWorkersBER)
-- [Tech Workers Coalition: DC](https://twitter.com/dctechworkers)
+- [Tech Workers Coalition: Berlin](https://techworkersberlin.com) ([X](https://twitter.com/TechWorkersBER))
+- [Tech Workers Coalition: DC](https://techworkerscoalition.org/dc/) ([X](https://twitter.com/dctechworkers))
 - [Tech Workers Coalition: Denver](https://twitter.com/twc_den)
-- [Tech Workers Coalition: London](https://twitter.com/techworkersldn)
-- [Tech Workers Coalition: NYC](https://twitter.com/techworkerscony)
-- [Tech Workers Coalition](https://twitter.com/techworkersco)
+- [Tech Workers Coalition: London](https://techworkerscoalition.org/london/) ([X](https://twitter.com/techworkersldn))
+- [Tech Workers Coalition: NYC](https://techworkerscoalition.org/nyc/) ([X](https://twitter.com/techworkerscony))
 - [Tech Workers Network](https://www.techworkers.network) from [Prospect Union](https://prospect.org.uk/), UK
-- [United HCL Workers of Pittsburgh](https://twitter.com/HCLtechUnion) - Tech professionals and Google contractors unionzied with the USW
-- [United Tech & Allied Workers](https://twitter.com/UTAW_uk) - UTAW is a branch of the Communication Workers Union (UK) which seeks to represent and fight for workers interests in the tech industry.
+- [United Tech & Allied Workers](https://utaw.tech) ([X](https://twitter.com/UTAW_uk)) - UTAW is a branch of the Communication Workers Union (UK) which seeks to represent and fight for workers interests in the tech industry.
+- [Voice of African Content Moderators](https://x.com/ContmoderatorAf) - fighting for the rights of content moderators in Africa.
 
 # Music
 
@@ -138,6 +142,8 @@ The majority of newsrooms are organized under the NewsGuild-CWA banner, followed
 
 ## IATSE (International Alliance of Theatrical Stage Employees)
 
+- https://twitter.com/IATSE
+
 ### Motions Pictures Editor Guild, Local 700
 
 - [The Young Turks Union](https://twitter.com/TYTUnion)
@@ -218,40 +224,34 @@ The majority of newsrooms are organized under the NewsGuild-CWA banner, followed
 - https://twitter.com/NYTWA
 - https://twitter.com/hwanola
 - https://twitter.com/ChicagoRidesha1
-- https://twitter.com/tcgunion
+- https://tcgunion.org
 - https://twitter.com/workingwa
 - https://twitter.com/ShopperShipt
-- https://twitter.com/SVRising
 - https://twitter.com/SWA_solidarity
-- https://twitter.com/wedriveprogress
 - https://twitter.com/codaunite
-- https://twitter.com/ICGuild
-- https://twitter.com/IATSE
 - https://twitter.com/PublicBankNYC
 - https://twitter.com/ForUsNotAmazon
-- https://twitter.com/SVRising
 - https://twitter.com/law360union
 - https://twitter.com/book_workers
-- https://twitter.com/uaw2865?lang=en
-- https://twitter.com/payusmoreucsc?lang=en
+- [UAW Local 4811](https://www.uaw4811.org) - the union for 48,000 workers at the University of California
+- https://twitter.com/payusmoreucsc
 - https://twitter.com/GuildatBIG
 - https://twitter.com/NelpStaff
 - https://twitter.com/reprorightsuni
-- https://mobile.twitter.com/BxDUnion/status/1266375333680345108
+- https://x.com/BxDUnion
 - https://www.cityandstateny.com/articles/politics/new-york-city/city-hall-staffers-ask-union-recognition.html
 - https://www.politico.com/newsletters/massachusetts-playbook/2020/05/27/kennedy-campaign-staff-joins-union-new-documents-in-soldiers-home-saga-massgop-in-dire-straits-489339
 - https://www.publishersweekly.com/pw/by-topic/industry-news/bookselling/article/81970-employees-at-mcnally-jackson-vote-to-unionize.html
-- https://twitter.com/popupguild/status/1269013249070112775
+- https://x.com/popupguild
 - https://www.aft.org/news/ivy-league-grad-workers-win-historic-first-union-contract
 - https://www.kqed.org/arts/13881257/sfmoma-faces-censorship-racism-accusations-over-george-floyd-response
 - https://twitter.com/NorCalFF15
 - https://twitter.com/FightFor15FL
 - https://twitter.com/fightfor15
-- https://github.com/collective-action/tech
 - https://twitter.com/PBNewsGuild/status/1275401564769988608
-- https://mobile.twitter.com/WeMakeKPBS
+- https://twitter.com/WeMakeKPBS
 - https://www.wsws.org/en/articles/2020/05/27/tech-m27.html
-- https://twitter.com/CAHUnion/status/1278047059464138759?s=20
+- https://twitter.com/CAHUnion/status/1278047059464138759?
 - https://twitter.com/NoTech4Tyrants
 - https://twitter.com/Publici_Union
 - https://twitter.com/JCurrents_Union/status/1283436388730441732
