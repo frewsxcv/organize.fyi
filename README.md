@@ -29,6 +29,7 @@ A list of recent labor organizing efforts.
 - [Amazon Employees For Climate Justice](https://www.amazonclimatejustice.org) ([X](https://twitter.com/AMZNforClimate)) - Amazon employees who want climate leadership
 - [Amazonians: We Won't Build It](https://twitter.com/WeWontBuildIt) - Amazon workers calling for accountability and transparency in the tech they build
 - [Athena](https://athenaforall.org) ([X](https://twitter.com/athenaforall)) - A coalition to end Amazon’s injustices—spying, gentrification, dirty energy, monopoly & worker abuse
+- [Campaign to Organize Digital Employees (CODE-CWA)](https://code-cwa.org) - a union movement of over 4000 worker-organizers fighting every single day to build the voice and power necessary to ensure the future of the tech, games, and digital industries in the United States and Canada. Part of the Communications Workers of America (CWA).
 - [Collective Action in Tech](https://data.collectiveaction.tech/) - attempting to document all collective action from workers in the tech industry. Also includes a [list of tech unions in the US](https://data.collectiveaction.tech/unions).
 - [DSA National Tech Committee](https://tech.dsausa.org) ([X](https://twitter.com/DSATechCmte))
 - [Facebook Employees for Climate Action](https://twitter.com/FBClimateAction)
