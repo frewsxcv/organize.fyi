@@ -26,36 +26,35 @@ A list of recent labor organizing efforts.
 
 - [#TechSolidarity](https://twitter.com/techspeaksout)
 - [Alphabet Workers Union](https://alphabetworkersunion.org/)
-- [Amazon Employees For Climate Justice](https://twitter.com/AMZNforClimate) - Amazon employees who want climate leadership
+- [Amazon Employees For Climate Justice](https://www.amazonclimatejustice.org) ([X](https://twitter.com/AMZNforClimate)) - Amazon employees who want climate leadership
 - [Amazonians: We Won't Build It](https://twitter.com/WeWontBuildIt) - Amazon workers calling for accountability and transparency in the tech they build
-- [Athena](https://twitter.com/athenaforall) - A coalition to end Amazon’s injustices—spying, gentrification, dirty energy, monopoly & worker abuse
+- [Athena](https://athenaforall.org) ([X](https://twitter.com/athenaforall)) - A coalition to end Amazon’s injustices—spying, gentrification, dirty energy, monopoly & worker abuse
 - [Collective Action in Tech](https://data.collectiveaction.tech/) - attempting to document all collective action from workers in the tech industry. Also includes a [list of tech unions in the US](https://data.collectiveaction.tech/unions).
-- [DSA National Tech Committee](https://twitter.com/DSATechCmte)
+- [DSA National Tech Committee](https://tech.dsausa.org) ([X](https://twitter.com/DSATechCmte))
 - [Facebook Employees for Climate Action](https://twitter.com/FBClimateAction)
 - [githubbers](https://twitter.com/githubbers/) - GitHub workers demanding that GitHub management cancel the ICE contract
 - [Glitch union](https://techcrunch.com/2020/03/13/online-code-collaboration-tool-glitch-votes-to-unionize/) - Glitch workers unionized with CWA Local 1101
 - [Google Walkout For Real Change](https://twitter.com/GoogleWalkout)
-- [Googlers for Climate Action](Ahttps://twitter.com/ClimateGooglers)
+- [Googlers for Climate Action](https://twitter.com/ClimateGooglers)
 - [Googlers for Human Rights](https://twitter.com/EthicalGooglers)
 - [Internet Creators Guild](https://twitter.com/ICGuild) - a non-profit membership organization that advocates for internet creators to make their profession more sustainable.
-- [Kickstarter United](https://github.com/sampart/organize.fyi.git) ([X](https://twitter.com/ksr_united)) - Kickstarter workers unionized with OPEIU Local 153
-- [Microsoft Workers 4 Good](https://twitter.com/MsWorkers4) - Amazon employees who want climate leadership
-- [Nava United](https://twitter.com/Nava_United) - Nava PBC workers unionized with OPEIU Local 1010
-- [NYC-DSA Tech Action](https://twitter.com/NYCDSATechWG)
+- [Kickstarter United](https://kickstarterunited.org) ([X](https://twitter.com/ksr_united)) - Kickstarter workers unionized with OPEIU Local 153
+- [Microsoft Workers 4 Good](https://twitter.com/MsWorkers4)
+- [Nava United](https://www.navaunited.org) ([X](https://twitter.com/Nava_United)) - Nava PBC workers unionized with OPEIU Local 1010
+- [NYC-DSA Tech Action](https://techaction.nyc) ([X](https://twitter.com/NYCDSATechWG))
 - [N26 Works Council](https://www.worker26.com/)
-- [SiliconValleyRising](https://twitter.com/SVRising) - Building a tech economy that works for everyone
+- [SiliconValleyRising](https://siliconvalleyrising.org) ([X](https://twitter.com/SVRising)) - Building a tech economy that works for everyone
 - [Square Workers for Climate Action](https://twitter.com/SquareWorkers)
-- [Tech Workers Coalition: Austin](https://twitter.com/twcatx)
+- [Tech Workers Coalition](https://techworkerscoalition.org) ([X](https://twitter.com/techworkersco))
+- [Tech Workers Coalition: Austin](https://techworkerscoalition.org/austin/) ([X](https://twitter.com/twcatx))
 - [Tech Workers Coalition: Bangalore](https://twitter.com/twc_bangalore)
-- [Tech Workers Coalition: Berlin](https://twitter.com/TechWorkersBER)
-- [Tech Workers Coalition: DC](https://twitter.com/dctechworkers)
+- [Tech Workers Coalition: Berlin](https://techworkersberlin.com) ([X](https://twitter.com/TechWorkersBER))
+- [Tech Workers Coalition: DC](https://techworkerscoalition.org/dc/) ([X](https://twitter.com/dctechworkers))
 - [Tech Workers Coalition: Denver](https://twitter.com/twc_den)
-- [Tech Workers Coalition: London](https://twitter.com/techworkersldn)
-- [Tech Workers Coalition: NYC](https://twitter.com/techworkerscony)
-- [Tech Workers Coalition](https://twitter.com/techworkersco)
+- [Tech Workers Coalition: London](https://techworkerscoalition.org/london/) ([X](https://twitter.com/techworkersldn))
+- [Tech Workers Coalition: NYC](https://techworkerscoalition.org/nyc/) ([X](https://twitter.com/techworkerscony))
 - [Tech Workers Network](https://www.techworkers.network) from [Prospect Union](https://prospect.org.uk/), UK
-- [United HCL Workers of Pittsburgh](https://twitter.com/HCLtechUnion) - Tech professionals and Google contractors unionzied with the USW
-- [United Tech & Allied Workers](https://twitter.com/UTAW_uk) - UTAW is a branch of the Communication Workers Union (UK) which seeks to represent and fight for workers interests in the tech industry.
+- [United Tech & Allied Workers](https://utaw.tech) ([X](https://twitter.com/UTAW_uk)) - UTAW is a branch of the Communication Workers Union (UK) which seeks to represent and fight for workers interests in the tech industry.
 
 # Music
 
